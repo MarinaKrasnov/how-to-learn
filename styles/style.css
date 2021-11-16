@@ -23,7 +23,7 @@
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 
 .logo__place_header { 
-  position: absolute; 
+  position: absolute;
   top: 30px;
   left: 64px;
   z-index: 1; 
@@ -82,7 +82,7 @@ z-index: 1;
 }
 
 .two-columns {
-  width: 80%;  
+  width: 80%;
   display: flex;
   justify-content: space-between;
 }
@@ -112,7 +112,7 @@ z-index: 1;
   }
 
   .two-columns__paragraph:nth-of-type(2) {
-    margin-top: 20px ;
+    margin-top: 20px;
     margin-bottom: 20px;
   }
   
@@ -235,7 +235,7 @@ font-size: 18px;
 }
 
 .feynman-tittle {
-text-align: center; 
+text-align: center;
 font-size: 130px;
 max-width: 648px;
 z-index: 1;
@@ -302,7 +302,7 @@ margin:0;
 .column-links {
   line-height: 30px;
   font-size: 18px;
-  font-weight: normal; 
+  font-weight: normal;
   text-decoration:none;
   color: #fff;
 }
