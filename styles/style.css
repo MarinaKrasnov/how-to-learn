@@ -59,6 +59,7 @@
   margin-top: auto;
   margin-bottom: auto;
   font-size: 102px;
+  font-weight: bold;
 z-index: 1;
 }
 
@@ -166,7 +167,7 @@ z-index: 1;
   font-size: 24px;
   line-height: 1.15;
   margin-bottom: 20px;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .table__text {
@@ -272,6 +273,7 @@ top: 50%;
   min-height: 350px;
   margin: 0;
   padding-top: 60px;
+  padding-bottom: 40px;
 }
 
 .footer__columns {
