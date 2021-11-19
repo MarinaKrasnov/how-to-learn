@@ -235,7 +235,7 @@ font-size: 18px;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+}    
 
 .feynman-title {
 text-align: center;
@@ -319,7 +319,7 @@ min-height: 250px;
   color: #fff;
 }
 
-.footer__column-links::last-child {
+.footer__column-links:last-of-type {
   margin-bottom: 16px;
 }
 
