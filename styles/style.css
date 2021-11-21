@@ -19,6 +19,7 @@
   position: relative;
   overflow: hidden;
   background-color: #f2f2f2;
+  align-items: center;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -63,8 +64,6 @@
   font-size: 102px;
   font-weight: bold;
   z-index: 2;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 .header__subtitle {
