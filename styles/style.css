@@ -325,7 +325,7 @@
   margin-bottom: 16px;
   display: flex;
   flex-direction: column;
-  list-style-type: none;
+  
 }
 
 .footer__column-link {
@@ -334,7 +334,6 @@
   font-weight: normal;
   text-decoration: none;
   color: #f2f2f2;
-  list-style-type: none;
 }
 
 .footer__column_content_info {
@@ -342,7 +341,6 @@
   padding: 0;
   display: flex;
   flex-direction: column;
-  list-style-type: none;
 }
 
 .footer__column_content_social {
