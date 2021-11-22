@@ -181,7 +181,7 @@
 }
 
 .table__text {
-  margin: 20px 0;
+  margin: 20px 0 0 0;
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
@@ -265,7 +265,7 @@
   line-height: 51px;
   font-weight: normal;
   z-index: 1;
-  margin-top: 20px 0 0 0;
+  margin: 20px 0 0 0;
 }
 
 .feynman__link {
@@ -306,7 +306,6 @@
 
 .footer__column_content_copyright {
   justify-content: space-between;
-  position: relative;
   flex-basis: 711px;
 }
 
