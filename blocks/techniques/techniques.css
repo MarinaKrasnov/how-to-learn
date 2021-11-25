@@ -1,0 +1,6 @@
+@import url(./__section-title/techniques__section-title.css);
+.techniques {
+    
+    min-width: 80%;
+    margin: 100px auto 0 auto;
+}
